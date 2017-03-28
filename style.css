@@ -178,35 +178,41 @@ body{
 	height: 600px;
 	background-color: powderblue;
 	color:black;
+	font-family: sans-serif;
 }
 #box2:hover{
 	width: 300px;
 	height: 600px;
 	background-color: powderblue;
 	color:black;
+	font-family: sans-serif;
 }
 #box3:hover{
 	width: 300px;
 	height: 600px;
 	background-color: powderblue;
 	color:black;
+	font-family: sans-serif;
 }
 #box4:hover{
 	width: 300px;
 	height: 600px;
 	background-color: powderblue;
 	color:black;
+	font-family: sans-serif;
 }
 #box5:hover{
 	width: 300px;
 	height: 600px;
 	background-color: powderblue;
 	color:black;
+	font-family: sans-serif;
 }
 #ft1:hover{
 	height: 250px;
 	width: 70%;
 	background-color: powderblue;
+	font-family: sans-serif;
 
 
 }
@@ -214,6 +220,7 @@ body{
 	height: 250px;
 	width: 70%;
 	background-color: powderblue;
+        font-family: sans-serif;
 
 }
 .menu ul li:hover{
