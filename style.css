@@ -117,7 +117,7 @@ body{
 	height: 400px;
 }*/
 .box{
-	height: 450px;
+	height: 460px;
 	width: 20%;
 	border: 2px solid black;
 	box-sizing: border-box;
@@ -132,7 +132,7 @@ body{
 	
 }
 .part1{
-	height: 250px;
+	height: 270px;
 	width: 100%;
 	border: 1px solid grey;
 	font-family: sans-serif;
